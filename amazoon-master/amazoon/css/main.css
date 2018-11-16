@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.nav-container {
+    background-color: rgb(20, 23, 28);
+    color: white;
+    min-height: 150px;
+}
+
+.subnav {
+    /* This is the sub text doe header of webpage */
+    color: rgb(250, 200, 50);
+    font-size: 14px;
+}
+
+.list {
+    color: white;
+    padding: 10px;
+}
+
+.main_list {
+    color: rgb(250, 200, 50);
+    padding: 10px;
+}
+
+.ship {
+    border: 2px solid rgb(250, 200, 50);
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.col-lg-6 {
+    line-height: 100px;
+}
+
+.col-lg-
